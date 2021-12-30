@@ -1,0 +1,9 @@
+.field {
+    flex: 0 0 32%;
+}
+.board{
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+    width: 200px;
+}
